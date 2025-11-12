@@ -26,3 +26,7 @@
 `git status`
 
 - Indica qual o status de meus arquivos no meu diretorio git. No caso, indica os arquivos que nao foram 'add' ou 'commmit'
+
+### Obs sobre o Staging area
+
+- é onde eu vou acumulando meus arquivos, antes de dar o commit. Dessa forma posso dar commit em "blocos" de modificacao. Staging: acumular modificacoes em arquivos que, de alguma maneira, sao relacionados e que podem ter um 'commit' comum
