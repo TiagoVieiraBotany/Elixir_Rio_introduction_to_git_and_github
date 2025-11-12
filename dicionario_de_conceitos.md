@@ -30,3 +30,7 @@
 ### Obs sobre o Staging area
 
 - é onde eu vou acumulando meus arquivos, antes de dar o commit. Dessa forma posso dar commit em "blocos" de modificacao. Staging: acumular modificacoes em arquivos que, de alguma maneira, sao relacionados e que podem ter um 'commit' comum
+
+### Obs sobre git push
+
+- o `git push` lança para o GitHub suas atualizacoes feitas no Git. Antes de dar o comando, voce precisa estabelecer a conexao entre sua pasta do projeto e seu projeto no gitHub através de: `git push --set-upstream origin main`

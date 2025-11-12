@@ -27,3 +27,13 @@
 
 - git show mostra modificacoes em ambas versoes de arquivo (completo)
 `git show <commit_ID1_old> <commit_ID2_new`
+
+
+## Estabelecendo uma conexão entre o Git (local) e GitHub (nuvem)
+
+`git push --set-upstream origin main`
+
+
+## Enviando ao github todas suas atualizacoes
+
+`git push`
