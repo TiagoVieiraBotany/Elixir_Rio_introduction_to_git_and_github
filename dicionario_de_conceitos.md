@@ -6,9 +6,17 @@
 
 - Workflow básico do git: 1) "$ git add <file>"; 2) "$git commit -m "mensagem relevante"
 
-## Nota sobre o Commit: 
+### Nota sobre o Commit: 
 
 - **Por quê** houve uma mudança?
 - **Como** o problema foi resolvido?
 - **Efeitos** causados pela alteração
 - **Limitações** das atualizações
+
+## Áreas conceituais do Git
+
+- Área de desenvolvimento (development area): o diretório em seu computador, onde o projeto está sendo desenvolvido e os arquivos associados sao armzenados
+
+- Staging area: local onde organizo os arquivos antes do commit
+
+- Repositório local (local repository): arquivo "hidden" que armazena toda linha do tempo de seu projeto git. É a minha linha do tempo, tambem representada pelo arquivo '.git'
