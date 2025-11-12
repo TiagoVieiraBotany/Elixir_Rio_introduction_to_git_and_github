@@ -9,3 +9,5 @@
 `git add <nome_do_arquivo>`
 
 `git commit -m "mensagem significativa"`
+
+`git status`
