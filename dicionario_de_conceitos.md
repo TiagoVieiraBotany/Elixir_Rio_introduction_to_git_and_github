@@ -47,3 +47,10 @@
 2) editou o arquivo 'dicionario_de_connceitos.md' e acrescentou informacos sobre colaboracaoes
 3) salvar e fazer as modificacoes via git commit e git push, para gravar no repositorio git remoto
 4) grato pela colab :)
+
+## Fixando conhecimentos. 
+
+1) Fazer o git pull no projeto do colaborador, para atualizar os arquivos 
+2) realizar as alteracoes e modificacoes no arquivos relacionados
+3) fazer a atualizacao com git add + git push
+
