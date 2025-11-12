@@ -38,3 +38,5 @@
 ### Obs sobre git pull
 
 - assim como o push, trata de sincronizacao (tipo um rsync), mas agora no sentido contrario: da nuvem para o computador remoto/local
+
+me lasqui, fiz merda e nao sei ainda como resolver aaaaaaaaaaaaaaaaaaaaaa desespero
