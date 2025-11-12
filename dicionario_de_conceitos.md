@@ -34,3 +34,7 @@
 ### Obs sobre git push
 
 - o `git push` lança para o GitHub suas atualizacoes feitas no Git. Antes de dar o comando, voce precisa estabelecer a conexao entre sua pasta do projeto e seu projeto no gitHub através de: `git push --set-upstream origin main`
+
+### Obs sobre git pull
+
+- assim como o push, trata de sincronizacao (tipo um rsync), mas agora no sentido contrario: da nuvem para o computador remoto/local
