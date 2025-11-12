@@ -38,3 +38,12 @@
 ### Obs sobre git pull
 
 - assim como o push, trata de sincronizacao (tipo um rsync), mas agora no sentido contrario: da nuvem para o computador remoto/local
+
+
+### Colaborations (DARN) - gitcolab
+
+- esta parte se destina as acoes colaborativas usando o ambiente git-github
+1) clonar o repositorio para o meu computador 
+2) editou o arquivo 'dicionario_de_connceitos.md' e acrescentou informacos sobre colaboracaoes
+3) salvar e fazer as modificacoes via git commit e git push, para gravar no repositorio git remoto
+4) grato pela colab :)
