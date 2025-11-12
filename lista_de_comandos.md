@@ -11,3 +11,19 @@
 `git commit -m "mensagem significativa"`
 
 `git status`
+
+## Histórico de commits
+
+`git log`
+
+`git log -n`
+
+`git log -abbrev-commit`
+
+## Comparando commits
+
+- git diff mostra as diferencas entre duas versoes (resumo)
+`git diff <commit_ID1_old> <commit_ID2_new` 
+
+- git show mostra modificacoes em ambas versoes de arquivo (completo)
+`git show <commit_ID1_old> <commit_ID2_new`
