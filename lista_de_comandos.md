@@ -6,17 +6,11 @@
 
 ## Rotina básica para adicionar versão na linha do tempo
 
-Checando o status dos arquivos, adiciona na __staging area__, faz o __commit__ para salvar na liha do tempo, e faz o __push__ para enviar o GitHub
+`git add <nome_do_arquivo>`
 
-```
-git status
+`git commit -m "mensagem significativa"`
 
-git add <nome_do_arquivo>
-
-git commit -m "mensagem significativa"
-
-git push
-```
+`git status`
 
 ## Histórico de commits
 
@@ -43,8 +37,3 @@ git push
 ## Enviando ao github todas suas atualizacoes
 
 `git push`
-
-
-## Enviando meu projeto do GitHub (nuvem) para meu Git (local)
-
-`git pull`
