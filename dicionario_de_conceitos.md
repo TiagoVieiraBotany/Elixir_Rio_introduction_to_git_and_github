@@ -20,3 +20,9 @@
 - Staging area: local onde organizo os arquivos antes do commit
 
 - Repositório local (local repository): arquivo "hidden" que armazena toda linha do tempo de seu projeto git. É a minha linha do tempo, tambem representada pelo arquivo '.git'
+
+### Sobre o git status
+
+`git status`
+
+- Indica qual o status de meus arquivos no meu diretorio git. No caso, indica os arquivos que nao foram 'add' ou 'commmit'
