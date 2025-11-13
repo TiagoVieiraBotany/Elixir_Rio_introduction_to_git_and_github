@@ -77,9 +77,8 @@
 
 `git status`
 
+### Outros comentários sobre branching
 - Pull traz todas as atualizacoes
 - Push deve ser feito por branch
 - Nao ha limite para numero de branches
 - Um branch pode partir de qualquer ponto em sua "linha do tempo"
-
-Nova linha
