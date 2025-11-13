@@ -54,7 +54,7 @@
 2) realizar as alteracoes e modificacoes no arquivos relacionados
 3) fazer a atualizacao com git add + git push
 
-
+git 
 ## Gerando conflito colaborativo
 
 - Uma vez detectado o conflito, deve-se editar o arquivo manualmente
@@ -62,3 +62,9 @@
 ## Segunda rodada de conflito!
 
 1) segundo conflito push and pull = é treta! 
+
+
+
+
+
+fgszrgfdvhjmasdfghjmnbvczvbnm
