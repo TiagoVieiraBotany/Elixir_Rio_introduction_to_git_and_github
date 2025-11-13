@@ -62,9 +62,7 @@ git
 ## Segunda rodada de conflito!
 
 1) segundo conflito push and pull = é treta! 
+ 
+## Terceira rodada de conflitos 
 
-
-
-
-
-fgszrgfdvhjmasdfghjmnbvczvbnm
+1) Resolvidos!
