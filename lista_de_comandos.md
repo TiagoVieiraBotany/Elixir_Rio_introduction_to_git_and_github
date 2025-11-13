@@ -48,3 +48,14 @@ git push
 ## Enviando meu projeto do GitHub (nuvem) para meu Git (local)
 
 `git pull`
+
+## Branching
+
+```
+git branch <branch_name>
+
+git checkout <branch_que_vc_quer_ir>
+
+git branch --list
+
+```

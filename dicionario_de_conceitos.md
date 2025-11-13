@@ -74,3 +74,10 @@
 `git branch --list`
 
 - Ou, para simplesmente checar em qual branch você está, basta:
+
+`git status`
+
+- Pull traz todas as atualizacoes
+- Push deve ser feito por branch
+- Nao ha limite para numero de branches
+- Um branch pode partir de qualquer ponto em sua "linha do tempo"
