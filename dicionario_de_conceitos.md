@@ -54,4 +54,7 @@
 2) realizar as alteracoes e modificacoes no arquivos relacionados
 3) fazer a atualizacao com git add + git push
 
-Frase aleatória para gerar conflito
+
+## Gerando conflito colaborativo
+
+- Uma vez detectado o conflito, deve-se editar o arquivo manualmente
