@@ -59,7 +59,6 @@
 
 - Uma vez detectado o conflito, deve-se editar o arquivo manualmente
 
-
 ## Branching
 
 - É possível ter mais de um branch, para desenvolver trabalhos em paralelo
@@ -75,5 +74,3 @@
 `git branch --list`
 
 - Ou, para simplesmente checar em qual branch você está, basta:
-
-`git status`
