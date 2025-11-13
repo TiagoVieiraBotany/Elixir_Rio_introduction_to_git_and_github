@@ -59,6 +59,6 @@
 
 - Uma vez detectado o conflito, deve-se editar o arquivo manualmente
 
-## Segunda rodada de conflito! 
+## Segunda rodada de conflito!
 
-Conflitando reaaaallll
+1) segundo conflito push and pull = é treta! 
