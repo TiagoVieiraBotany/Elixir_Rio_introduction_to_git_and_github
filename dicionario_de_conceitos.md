@@ -62,3 +62,9 @@
 ## Segunda rodada de conflito!
 
 1) segundo conflito push and pull = é treta! 
+
+# terceiro conflito 
+
+
+
+Qualquer coisa
