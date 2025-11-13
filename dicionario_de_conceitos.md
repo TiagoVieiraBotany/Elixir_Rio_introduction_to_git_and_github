@@ -58,3 +58,5 @@
 ## Gerando conflito colaborativo
 
 - Uma vez detectado o conflito, deve-se editar o arquivo manualmente
+
+## Segunda rodada de conflito!
