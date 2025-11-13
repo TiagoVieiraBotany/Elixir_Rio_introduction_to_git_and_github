@@ -74,3 +74,6 @@
 `git branch --list`
 
 - Ou, para simplesmente checar em qual branch você está, basta:
+
+
+Edicao teste para  terceiro branch
