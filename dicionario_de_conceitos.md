@@ -59,12 +59,21 @@
 
 - Uma vez detectado o conflito, deve-se editar o arquivo manualmente
 
-## Segunda rodada de conflito!
 
-1) segundo conflito push and pull = é treta! 
+## Branching
 
-# terceiro conflito 
+- É possível ter mais de um branch, para desenvolver trabalhos em paralelo
 
+`git branch <branch_name>`
 
+- Para trocar de branch, utiliza-se:
 
-Qualquer coisa
+`git checkout <branch_que_vc_quer_ir>`
+
+- Voce pode checar os branchs existentes e em qual você está com:
+
+`git branch --list`
+
+- Ou, para simplesmente checar em qual branch você está, basta:
+
+`git status`
