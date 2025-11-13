@@ -59,4 +59,6 @@
 
 - Uma vez detectado o conflito, deve-se editar o arquivo manualmente
 
-## Segunda rodada de conflito!
+## Segunda rodada de conflito! 
+
+Conflitando reaaaallll
